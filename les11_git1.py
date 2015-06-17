@@ -7,3 +7,6 @@ class Test():
 
     def __string(self):
         return(self.string + " " + self.string2)
+
+test = Test()
+print(test)
