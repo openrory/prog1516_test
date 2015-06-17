@@ -10,3 +10,4 @@ class Test():
 
 test = Test()
 print(test)
+print(test)
