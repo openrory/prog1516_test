@@ -3,6 +3,7 @@ __author__ = 'rorysie'
 class Test():
     def __init__(self):
         self.string = "Hoi"
+        self.string2 = "Wereld!"
 
     def __string(self):
-        return(self.string)
+        return(self.string + " " + self.string2)
